@@ -3,7 +3,6 @@ write a C++ program emulating a sorting Machine. The machine is capable of the f
 -Sort all the strings in a given text file and output the sorted result
 - Supporting two different sorting orders: increasing, decreasing
 - Supporting different sorting algorithms (at least, two): any that you can implement
--For each sorting procedure, print out the execution time (time spent on sorting)
 User interface can be command line based, by using keyboard only You can create test files by yourself, as input files to the program
 - The interface must be professional and fully intuitive to the user.
 The program may use a class to define and implement each of the sorting methods
